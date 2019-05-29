@@ -21,7 +21,7 @@
 			<param-value>org.springframework.web.context.support.AnnotationConfigWebApplicationContext</param-value>
 		</init-param>
 		<init-param>
-			<param-name>contextConfiguration</param-name>
+			<param-name>contextConfigLocation</param-name>
 			<param-value>com.cafe24.springex.config.WebConfig</param-value>
 		</init-param>
 	</servlet>
